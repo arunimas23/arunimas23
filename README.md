@@ -7,43 +7,30 @@
 
 ## Hello there, I’m Arunima 🌻
 
-I’m a product designer currently pursuing engineering at IIT BHU. I’m driven by curiosity about how people interact with products and how small, thoughtful decisions shape meaningful experiences.
 
+I’m a product designer currently pursuing engineering at **IIT (BHU) Varanasi**. I’m driven by curiosity about how people interact with products and how small, thoughtful decisions shape meaningful experiences.
 For me, design is about asking the right questions, finding clarity, and building things that truly matter.
 
-## What I’ve done so far?
-I’ve been working in design **on and off for ~3 years**, mostly through internships, competitions, and passion projects.
+## What I’ve done?
+Over the past **~3 years**, I’ve built experience through **internships, competitions, and passion projects**, often alongside my time at IIT. I’ve worked across **healthcare, e-commerce, and consumer products**, including designing **0 → 1 AI features for JioHealthHub at Reliance Jio** and leading **end-to-end product and branding work** for early-stage teams. I enjoy spotting everyday problems and turning them into thoughtful design solutions.
 
-- Designed **0 → 1 AI features** at Reliance Jio for JioHealthHub  
-- Worked across **healthcare, e-commerce, and consumer products**
-- Built and improved e-commerce stores on Shopify using UX principles  
-- Led branding and digital design end-to-end for early-stage teams  
-- Won **Bronze at Inter IIT Tech Meet 12.0** as the sole product designer among 22 IITs  
+## Why I chose design?
+I’ve always been a **curious, observant person**. Growing up, I noticed small details like spelling mistakes on menus and posters, and how they subtly changed how a place felt. Over time, I realized these weren’t just mistakes, but signs of overlooked effort, and that thoughtful design can help prevent them.
 
-I enjoy spotting problems in daily life and solve them by using my product design skills, I've made 2 of my passion project via this approach.
+## But.. why not just graphic design?
+I started out with **graphic design and branding**, but I found myself more interested in _why_ things worked the way they did, not just how they looked. Reading **Don’t Make Me Think** helped connect the dots, and product design gave me the space to think beyond visuals, understand users and systems, and fix problems at their root.
 
-## But… how did I end up in design?
-Short version: curiosity met the right book.
-
-After JEE and a very intense COVID phase, I read *Don’t Make Me Think*.  
-That was my “wait, someone designs this on purpose?” moment.
-
-I started noticing:
-- why certain apps felt effortless  
-- why small text or spacing errors changed how I judged places  
-- how design subtly shapes trust, speed, and decisions  
-
-I joined the design club, learned visual design first, and then gradually moved into **UX, product thinking, and systems**. Along the way, I realized I was most excited by **fast-moving teams, ownership, and AI-forward products**.
-
-I also explore psychology and neuroscience on the side, because understanding how people think makes designing for them far more interesting.
-
-## Tools I currently use 
-- **Figma** for thinking, prototyping, and shipping  
-- **Illustrator & Photoshop** for visual work  
-- **Framer** for websites PS: I made my portfolio there   
-- Currently exploring **AI-powered no-code tools** like Cursor and Figma Make  
+## Tools & how I think about them
+I use **Figma** for most of my work, along with **Illustrator, Photoshop, and Framer**.
+Tools evolve constantly, so I stay curious and currently explore **AI-powered tools** with real impact on design workflows, like **Cursor** and **Lovable**.
 
 
-
-Always open to conversations around product design, technology, and building thoughtful digital experiences.
-
+---
+<p align="left">
+  <a href="https://www.linkedin.com/in/arunima-shukla/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aru23.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-black?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
